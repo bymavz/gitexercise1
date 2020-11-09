@@ -2,10 +2,10 @@
 An exercise for clone, commit and pullrequest.
 
 # Steps to perform
- - fork the repository
+ - clone the repository locally
  - create a new branch
  - fix all errors and add missing operators
- - create pull request and upload it in moodle
+ - create pull request locally and upload it in moodle
 
 # Commands needed 
 	git clone
