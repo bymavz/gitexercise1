@@ -10,6 +10,7 @@ An exercise for clone, commit and pullrequest.
 # Commands needed 
 	git clone
 	git checkout -b
+	git add
 	git commit
   	git request-pull
 Compile and test:
