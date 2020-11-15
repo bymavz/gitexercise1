@@ -5,6 +5,7 @@ An exercise for clone, commit and pullrequest.
  - clone the repository locally
  - create a new branch
  - fix all errors and add missing operators
+ - commit the changes locally
  - create pull request locally and upload it in moodle
 
 # Commands needed
