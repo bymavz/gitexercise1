@@ -7,7 +7,8 @@ An exercise for clone, commit and pullrequest.
  - fix all errors and add missing operators
  - create pull request locally and upload it in moodle
 
-# Commands needed 
+# Commands needed
+	git status
 	git clone
 	git checkout -b
 	git add
