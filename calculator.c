@@ -6,7 +6,7 @@
 int main(){
 
 	float num1;
-	int num2;
+	float num2;
 	float ans;
 	char op;
 	printf("\nEnter an operator (+,-,/,*): \n");
@@ -19,6 +19,15 @@ int main(){
 	switch(op){
 		case '+' : 
 			ans = num1 + num2;
+			break;
+			case '-' : 
+			ans = num1 - num2;
+			break;
+			case '*' : 
+			ans = num1 * num2;
+			break;
+			case '/' : 
+			ans = num1 / num2;
 			break;
 		default:
 			printf("Enter a correct operator!");
